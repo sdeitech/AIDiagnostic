@@ -1,0 +1,2 @@
+MainPackage=D:\UWPTestApp\bin\x64\Release\UWPTestApp_1.0.5.0_x64.msix
+SymbolPackage=D:\UWPTestApp\obj\x64\Release\Symbols\UWPTestApp_1.0.5.0_x64.appxsym
